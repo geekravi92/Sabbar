@@ -4,11 +4,11 @@ ConCruise And File Service Apps
 
 ## System Design For This Project
 
-![Alt text](../../Downloads/system-design-1.jpeg?raw=true "ConCruise")
+![ConCruise](./system-design-1.jpeg?raw=true "ConCruise")
 
 ## System Design For A Production Ready Project
 
-![Alt text](../../Downloads/system-design-2.jpeg?raw=true "ConCruiseProd")
+![ConCruiseProd](./system-design-2.jpeg?raw=true "ConCruiseProd")
 
 ## Installation
 
