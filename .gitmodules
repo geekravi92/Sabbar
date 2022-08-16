@@ -1,0 +1,6 @@
+[submodule "concruise"]
+	path = concruise
+	url = https://github.com/geekravi92/concruise
+[submodule "file_service"]
+	path = file_service
+	url = https://github.com/geekravi92/file_service
